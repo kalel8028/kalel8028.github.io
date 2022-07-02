@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.inyuan.amis",
+               "sha256_cert_fingerprints": ["A1:67:DB:51:63:1C:EE:C0:15:F5:A7:BD:67:C8:E2:CE:C0:95:59:7F:A0:7F:E3:8F:9A:D0:DB:F5:D7:AC:09:99"] }
+}]
