@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "R7T3LPZU22.com.inyuan.n2",
-                "paths": [ "*" ]
+                "paths": [ "/about" ]
             }
         ]
     }
